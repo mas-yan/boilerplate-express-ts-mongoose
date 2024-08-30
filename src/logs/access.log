@@ -1,0 +1,4 @@
+ GET / 404 30.678 ms Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Fri, 30 Aug 2024 22:03:35 GMT 
+ GET /favicon.ico 404 7.209 ms Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Fri, 30 Aug 2024 22:03:36 GMT 
+ GET /api 200 2.609 ms Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Fri, 30 Aug 2024 22:03:43 GMT
+ GET /api 304 13.179 ms Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Fri, 30 Aug 2024 22:04:18 GMT
